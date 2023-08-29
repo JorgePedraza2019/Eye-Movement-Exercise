@@ -4,7 +4,7 @@
 The purpose of this project is to be able to follow the cursor through two components representing the movements of the eyes, this interactively using JavaScript, HTML and CSS.
 
 ## How to Run:
-To run the project, it must first be downloaded and the index.html file must be opened with the browser.
+To run the project, it must first be downloaded and the index.html file must be opened with the browser. Then you can move the mouse around the screen so that the eyes follow the cursor.
 
 ## Roadmap of future improvements:
 The improvements for the project will be to place a function that detects when the mouse touches any eye so that it blinks and thus achieve a much more dynamic effect.
